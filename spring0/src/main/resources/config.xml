@@ -4,6 +4,10 @@
 		xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
         
+	<bean>
+		<property name="property0" value="property value"></property>
+	</bean>
+	
 </beans>
 
 
